@@ -1,5 +1,3 @@
-# Praposal-website-
-3 to 4 pages website with 'html', 'html 2', 'html 3'
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,8 +24,7 @@
     <h1>Welcome 🤗</h1>
     <p><a href="page2.html">Click here to continue</a></p>
 </body>
-</html>
-<!DOCTYPE html>
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -59,8 +56,7 @@
     </div>
     <p><a href="page3.html">Click here to continue</a></p>
 </body>
-</html>
-<!DOCTYPE html>
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -116,4 +112,4 @@
         <button class="button no" id="noButton" onclick="moveButton()">No</button>
     </div>
 </body>
-</html>
+    </html>

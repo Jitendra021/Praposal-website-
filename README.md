@@ -27,7 +27,7 @@
     <p><a href="page2.html">Click here to continue</a></p>
 </body>
 </html>
-</html2> <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
